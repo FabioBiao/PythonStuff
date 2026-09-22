@@ -1,5 +1,5 @@
 aiosqlite==0.17.0
-anyio==3.3.4
+anyio==4.14.2
 asgiref==3.4.1
 asyncpg==0.24.0
 bcrypt==3.2.0
